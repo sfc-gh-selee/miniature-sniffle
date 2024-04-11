@@ -2,8 +2,6 @@ name: app_environment
 channels:
   - snowflake
 dependencies:
-  - ipython=
   - python=3.8.*
-  - snowflake-snowpark-python=
-  - sqlparse=
+  - snowbooks=1.25.*
   - streamlit=1.22.0
