@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - altair=4.1.0
+  - ipython=
+  - python=3.8.*
+  - snowflake-snowpark-python=
+  - snowflake-telemetry-python=
+  - sqlparse=
+  - streamlit=1.22.0
